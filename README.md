@@ -1,6 +1,6 @@
 # 2-DOF Bilateral Manipulator 3D Models
 
-This repository provides the STL files for the two-link local and remote manipulators used in the experimental bilateral teleoperation system presented in:
+This repository provides the STL files for the two-link local and remote manipulators used in the experimental bilateral control system presented in:
 
 **"Synchronization of Bilateral Control Systems Using Time Delay Compensation-Based Sliding Mode Control."**
 
