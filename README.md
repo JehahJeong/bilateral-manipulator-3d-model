@@ -35,7 +35,6 @@ These files can be used to reproduce the mechanical structure of the experimenta
 
 - The STL files correspond to the manipulator hardware used in the experiments.
 - Printing tolerances may need to be adjusted depending on the 3D printer and printing conditions.
-- The PM42-010-S260-R uses RS-485 communication.
 - The experimental control implementation was developed using MATLAB/Simulink and ROS.
 
 ## Related Work
