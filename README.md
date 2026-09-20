@@ -16,23 +16,6 @@ Communication between the local and remote manipulators and computation of the c
 
 The control system is operated with a sampling period of **0.02 s**.
 
-## Actuator
-
-The actuator used for each joint is the **ROBOTIS DYNAMIXEL PM42-010-S260-R**.
-
-Main manufacturer specifications are:
-
-| Specification | Value |
-|---|---|
-| Input voltage | 24.0 V |
-| Communication | RS-485 |
-| Gear ratio | 257.019:1 |
-| Resolution | 526,374 pulse/rev |
-| Continuous torque | 1.7 N·m |
-| Continuous speed | 26.0 rev/min |
-| Weight | 270 g |
-| Dimensions | 42 × 72 × 42 mm |
-
 ## 3D Model Files
 
 The STL files included in this repository correspond to the 3D-printable mechanical components of the manipulators used in the experiments.
