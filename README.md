@@ -41,4 +41,4 @@ These files can be used to reproduce the mechanical structure of the experimenta
 
 These 3D models are provided as supplementary material for the experimental platform used in:
 
-**Synchronization of Bilateral Control Systems Using Time Delay Compensation-Based Sliding Mode Control**
+**"Synchronization of Bilateral Control Systems Using Time Delay Compensation-Based Sliding Mode Control"**
